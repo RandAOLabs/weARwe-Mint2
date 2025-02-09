@@ -159,8 +159,8 @@ export function MintSection({ currentPhase, timeLeft }: MintSectionProps) {
         // Create NFT Sale Client Configuration
         const config: NftSaleClientConfig = {
           ...getNftSaleClientAutoConfiguration(),
-          processId: "ewO-sg8QM8xK_yM_ERzvbOZ4DCbTGoBK51uZnc3MENw",
-          tokenProcessId: "hqkQC3X-UfFeHRNc83OYORbsB_9v6uW0A-hDRVTH1mU"
+          processId: "Gq7ZccZYOi2eFjcSqy5ZCIZyBdcartFgJosp_B6KC9g",
+          tokenProcessId: " xU9zFkq3X2ZQ6olwNVvr1vUWIjc3kXTWr7xKQD6dh10"
         };
 
         console.log('Initializing NFT client...');
